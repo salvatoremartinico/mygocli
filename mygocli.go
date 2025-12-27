@@ -1,3 +1,7 @@
+// MIT License
+// Copyright (c) 2025 Salvatore Martinico
+//
+
 package mygocli
 
 import (
