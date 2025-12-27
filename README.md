@@ -4,4 +4,4 @@ a simple library, without too many pretensions, to facilitate the writing of pro
 ## Installation
 
 ```bash
-go get [github.com/salvatoremartinico/mygocli](https://github.com/salvatoremartinico/mygocli)
+go get github.com/salvatoremartinico/mygocli
