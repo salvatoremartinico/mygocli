@@ -56,6 +56,7 @@ func ForceToReadFloat64(scanner *bufio.Scanner, label string, label_error string
 // ReadString is a function to get an string from user input on the terminal
 func ReadString(scanner *bufio.Scanner, label string) string {
 	fmt.Println(label)
+	scanner.Scan()
 	return strings.TrimSpace(scanner.Text())
 }
 
